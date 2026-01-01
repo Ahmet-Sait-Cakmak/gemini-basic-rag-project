@@ -90,4 +90,4 @@ report.to_pandas()
 
 Chatbot’un çalışır halini gösteren tanıtım videosuna aşağıdaki linkten ulaşabilirsiniz:
 
-[▶️ Tanıtım videosunu izlemek için tıklayın](./demo.mp4)
+[▶️ Tanıtım videosunu izlemek için tıklayın](https://github.com/Ahmet-Sait-Cakmak/gemini-basic-rag-project/blob/master/Proje%20Tan%C4%B1t%C4%B1m%20Videosu.mp4)
