@@ -86,8 +86,11 @@ The evaluation results are exported into a tabular format using:
 ```python
 report.to_pandas()
 
-## 🎥 Tanıtım Videosu
+#####################################################################################
 
-Chatbot’un çalışır halini gösteren tanıtım videosuna aşağıdaki linkten ulaşabilirsiniz:
 
-[▶️ Tanıtım videosunu izlemek için tıklayın](https://github.com/Ahmet-Sait-Cakmak/gemini-basic-rag-project/blob/master/Proje%20Tan%C4%B1t%C4%B1m%20Videosu.mp4)
+## 🎥 Demonstration Video
+
+You can access the demonstration video showing the working version of the chatbot via the link below:
+
+▶️ [Click here to watch the demonstration video]: (https://github.com/Ahmet-Sait-Cakmak/gemini-basic-rag-project/blob/master/Proje%20Tan%C4%B1t%C4%B1m%20Videosu.mp4)
